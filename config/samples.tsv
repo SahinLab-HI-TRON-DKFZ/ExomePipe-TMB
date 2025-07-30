@@ -1,0 +1,3 @@
+sample	tumor_bam	normal_bam
+0239_008	data/0239_008_FF_TMA_1GDP_LE1_S9.sorted_MD_recal.bam	data/0239_008_PB_NOR_1GDP_LE1_S11.sorted_MD_recal.bam
+0239_009	data/0239_009_FF_TMA_1GD1_LE1_S1.sorted_MD_recal.bam	data/0239_009_WB_NOR_1GD1_LE1_S3.sorted_MD_recal.bam
