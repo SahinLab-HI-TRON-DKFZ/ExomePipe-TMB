@@ -17,7 +17,7 @@ output_csq = sys.argv[2]
 output_plot = sys.argv[3]
 summary_tsv = sys.argv[4]
 
-EXOME_SIZE_MB = 60  # Exome size (SureSelect Human All Exon V6)
+EXOME_SIZE_MB = 35  # Exome size (SureSelect Human All Exon V6)
 
 df = pd.read_csv(input_tsv, sep="\t", dtype=str).fillna('')
 
