@@ -17,9 +17,8 @@ output_csq = sys.argv[2]
 output_plot = sys.argv[3]
 summary_tsv = sys.argv[4]
 
-EXOME_SIZE_MB = 75  # Exome size constant
+EXOME_SIZE_MB = 60  # Exome size (SureSelect Human All Exon V6)
 
-#
 df = pd.read_csv(input_tsv, sep="\t", dtype=str).fillna('')
 
 def split_annotation_column(df, column_name, prefix):
