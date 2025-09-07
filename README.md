@@ -33,3 +33,5 @@ project/
 ```
 
 Author: Sakshi Singh
+
+Email: [sakshi.singh@dkfz-heidelberg.de](mailto:sakshi.singh@dkfz-heidelberg.de)  
